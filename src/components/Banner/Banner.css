@@ -1,0 +1,28 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("https://imgs.search.brave.com/kCQ1PoU1CDpNgMRtvbNpmgdm2G--ky6T5aDz1Aah13k/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5h/MEpISks5ZThUQzJv/dkk5TmkzR3dRSGFF/OCZwaWQ9QXBp");
+}
+
+.banner-container {
+  text-align: center;
+  padding: 15% 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  font-size: 62px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 30px;
+  color: white;
+  opacity: 0.7;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
