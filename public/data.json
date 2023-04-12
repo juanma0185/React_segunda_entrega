@@ -3,26 +3,30 @@
       "id": 1,
       "name": "Animales y Dinosaurios",
       "price": 500,
-      "img": "https://imgs.search.brave.com/Jiqespg5BBZ1Tn17HizaBfDuB-wNIosLmawDJQsLUOs/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Y/elRKSDBMR1FSNjN4/Q1dpd0E3NmxnSGFF/OCZwaWQ9QXBp"
+      "img": "https://imgs.search.brave.com/Jiqespg5BBZ1Tn17HizaBfDuB-wNIosLmawDJQsLUOs/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Y/elRKSDBMR1FSNjN4/Q1dpd0E3NmxnSGFF/OCZwaWQ9QXBp",
+      "quanty" : 1
     },
     {
       "id": 2,
       "name": "Encastres",
       "price": 250,
-      "img": "https://imgs.search.brave.com/2jI2pLFMwqthJ1vNCFlNtsKVfBq-YHJc3MtpaoLVeXU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/N2ZjMlBIVTZVNlAz/R1Y2SGFpZ2R3SGFI/YSZwaWQ9QXBp"
+      "img": "https://imgs.search.brave.com/2jI2pLFMwqthJ1vNCFlNtsKVfBq-YHJc3MtpaoLVeXU/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC56/N2ZjMlBIVTZVNlAz/R1Y2SGFpZ2R3SGFI/YSZwaWQ9QXBp",
+      "quanty" : 1
     },
   
     {
       "id": 3,
       "name": "Juegos Didacticos",
       "price": 300,
-      "img": "https://imgs.search.brave.com/1BzdXreSkwQHR_DQnYFrmC8pngWKOfAhpJvxVzUX2Vo/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/U05BazRhOUZrdm5i/WDFjZlgxWnJ3SGFF/NyZwaWQ9QXBp"
+      "img": "https://imgs.search.brave.com/1BzdXreSkwQHR_DQnYFrmC8pngWKOfAhpJvxVzUX2Vo/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/U05BazRhOUZrdm5i/WDFjZlgxWnJ3SGFF/NyZwaWQ9QXBp",
+      "quanty" : 1
     },
     {
-      "id": 750,
+      "id": 4,
       "name": "Letras y Numeros",
-      "price": 18,
-      "img": "https://imgs.search.brave.com/QsVbTmQvjpGsD1nV5ByWIPIthLaX0B2PImsEBAg9Inc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5D/UnE5eEFpbUdKRlJj/S0RfcnYtTDdBSGFI/YSZwaWQ9QXBp"
+      "price": 180,
+      "img": "https://imgs.search.brave.com/QsVbTmQvjpGsD1nV5ByWIPIthLaX0B2PImsEBAg9Inc/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5D/UnE5eEFpbUdKRlJj/S0RfcnYtTDdBSGFI/YSZwaWQ9QXBp",
+      "quanty" : 1
     }
   ]
   
